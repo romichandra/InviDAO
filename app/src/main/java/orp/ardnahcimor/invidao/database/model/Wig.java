@@ -1,4 +1,4 @@
-package orp.ardnahcimor.invidao.model;
+package orp.ardnahcimor.invidao.database.model;
 
 import org.greenrobot.greendao.annotation.Entity;
 import org.greenrobot.greendao.annotation.Id;

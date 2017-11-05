@@ -1,10 +1,10 @@
-package orp.ardnahcimor.invidao;
+package orp.ardnahcimor.invidao.database;
 
 import android.content.Context;
 
 import org.greenrobot.greendao.database.Database;
 
-import orp.ardnahcimor.invidao.model.DaoMaster;
+import orp.ardnahcimor.invidao.database.model.DaoMaster;
 
 /**
  * Created by romichandra on 11/5/17.
